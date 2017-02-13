@@ -40,7 +40,7 @@ import org.jdesktop.beansbinding.Converter;
 public class AgeConverter extends Converter<Integer, String> {
 
     public String convertForward(Integer arg) {
-        return String.valueOf(arg);
+        return String.valueOf("HOLA");
     }
 
     public Integer convertReverse(String arg) {
