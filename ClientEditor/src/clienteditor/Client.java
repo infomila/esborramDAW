@@ -70,21 +70,6 @@ public class Client {
     // </editor-fold>
     
     // <editor-fold defaultstate="collapsed" desc="Get Methods">
-    public String getFirstName() {
-        return firstName;
-    }
-    
-    public String getSurname() {
-        return surname;
-    }
-
-    public String getNickname() {
-        return nickname;
-    }
-    
-    public int getAge() {
-        return age;
-    }
 
     public String getEmail() {
         return email;
